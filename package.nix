@@ -11,11 +11,10 @@ let
 in
 stdenv.mkDerivation {
   pname = "asc";
-  version = sources.version;
+  inherit (sources) version;
 
   src = fetchurl {
-    url = platform.url;
-    hash = platform.hash;
+    inherit (platform) url hash;
   };
 
   dontUnpack = true;
