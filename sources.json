@@ -1,21 +1,21 @@
 {
-  "version": "7.3.1",
+  "version": "7.4.0",
   "platforms": {
     "x86_64-linux": {
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.3.1/asc_7.3.1_linux_amd64",
-      "hash": "sha256-Pu/ubcSThhQRHGcgCP3mXzz7EAQ49Uuj6JQu7YgBF1w="
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.4.0/asc_7.4.0_linux_amd64",
+      "hash": "sha256-UJtYb/I6lzcNJxOJZW+Z6mUBnA2EaXkWtY7vPbQHPKM="
     },
     "aarch64-linux": {
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.3.1/asc_7.3.1_linux_arm64",
-      "hash": "sha256-jDP7tGvIuUsgsCUoK/Gek+k2+I5VmUMlDUWiYGiGEV0="
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.4.0/asc_7.4.0_linux_arm64",
+      "hash": "sha256-Vqz/nZtoAeJIjbGgzuz/dEjLEdjS1EZEpdUzGd9eZBY="
     },
     "x86_64-darwin": {
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.3.1/asc_7.3.1_macOS_amd64",
-      "hash": "sha256-7Z4HhYfu3XTkRY7uQWtxOfcuCseR/zMA0FLRUgR4oZc="
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.4.0/asc_7.4.0_macOS_amd64",
+      "hash": "sha256-qqvCDbHxkn/Np1mnl1oEvHevEVcfoLe1+Pj1Yi9YqQ8="
     },
     "aarch64-darwin": {
-      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.3.1/asc_7.3.1_macOS_arm64",
-      "hash": "sha256-rxUnsztMZbeMPZ7vSazp+BXDwzvmBL8s2VcAqZPf7D8="
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI/releases/download/7.4.0/asc_7.4.0_macOS_arm64",
+      "hash": "sha256-bvWZlCWl4m5o9dGtGWFQJvoZlE9ieXkIpyU11rwVvis="
     }
   }
 }
